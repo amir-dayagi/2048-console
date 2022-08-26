@@ -8,11 +8,11 @@ From the root directory of the repository, run the following command:
 
 Mac:
 ```
-python3 main.py
+$ python3 main.py
 ```
 Windows:
 ```
-python main.py
+$ python main.py
 ```
 
 ## Usage
